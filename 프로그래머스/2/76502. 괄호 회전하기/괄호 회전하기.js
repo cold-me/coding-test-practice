@@ -1,18 +1,12 @@
 const classifier = (arr) => {
     const stack = [];
-    const set = [['[',']'],['(',')'], ['{','}']];
+    const map = new Map([['[',']'],['(',')'], ['{','}']]);
     for(let i = 0; i < arr.length ; i++){
-        if(i === 0) {
-            stack.push(arr[i]);
-            continue;
-        }
-        if((stack.at(-1) === set[0][0] && arr[i] === set[0][1])||
-          (stack.at(-1) === set[1][0] && arr[i] === set[1][1])||
-          (stack.at(-1) === set[2][0] && arr[i] === set[2][1])){
+        if(map.has(stack.at(-1)) && arr[i] === map.get(stack.at(-1))){
             stack.pop();
         }else stack.push(arr[i]);
     }
-    return stack.length === 0? 1 : 0
+    return stack.length === 0 ? 1 : 0
 }
 
 class Queue {
