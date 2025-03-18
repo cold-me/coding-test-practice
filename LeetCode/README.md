@@ -4,5 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cold-me/coding-test-practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/cold-me/coding-test-practice/tree/master/0006-zigzag-conversion) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cold-me/coding-test-practice/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cold-me/coding-test-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
