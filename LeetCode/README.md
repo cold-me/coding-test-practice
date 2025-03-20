@@ -6,15 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cold-me/coding-test-practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/cold-me/coding-test-practice/tree/master/0006-zigzag-conversion) |
+| [0392-is-subsequence](https://github.com/cold-me/coding-test-practice/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cold-me/coding-test-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/cold-me/coding-test-practice/tree/master/0011-container-with-most-water) |
+| [0392-is-subsequence](https://github.com/cold-me/coding-test-practice/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cold-me/coding-test-practice/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/cold-me/coding-test-practice/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
