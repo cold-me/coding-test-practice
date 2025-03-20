@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cold-me/coding-test-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/cold-me/coding-test-practice/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/cold-me/coding-test-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/cold-me/coding-test-practice/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cold-me/coding-test-practice/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/cold-me/coding-test-practice/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
