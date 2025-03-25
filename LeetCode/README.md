@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/cold-me/coding-test-practice/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/cold-me/coding-test-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/cold-me/coding-test-practice/tree/master/0392-is-subsequence) |
+| [1028-interval-list-intersections](https://github.com/cold-me/coding-test-practice/tree/master/1028-interval-list-intersections) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cold-me/coding-test-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/cold-me/coding-test-practice/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/cold-me/coding-test-practice/tree/master/0283-move-zeroes) |
+| [1028-interval-list-intersections](https://github.com/cold-me/coding-test-practice/tree/master/1028-interval-list-intersections) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cold-me/coding-test-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cold-me/coding-test-practice/tree/master/1798-max-number-of-k-sum-pairs) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/cold-me/coding-test-practice/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
