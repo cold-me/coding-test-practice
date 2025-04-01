@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/cold-me/coding-test-practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/cold-me/coding-test-practice/tree/master/0006-zigzag-conversion) |
 | [0392-is-subsequence](https://github.com/cold-me/coding-test-practice/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/cold-me/coding-test-practice/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/cold-me/coding-test-practice/tree/master/0392-is-subsequence) |
 | [1028-interval-list-intersections](https://github.com/cold-me/coding-test-practice/tree/master/1028-interval-list-intersections) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cold-me/coding-test-practice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/cold-me/coding-test-practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
